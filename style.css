@@ -5,3 +5,7 @@ h1 {
     font-family: "Brush Script MT";
     text-align: center;
 }
+h2 {
+    color:azure;
+    background-color: black;
+}
